@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1621422092 source:c:\users\andre\onedrive\documents\uanl\materias\progra\homeworks\2048\2048\main.c
+	"my2048.h"
+
+1621422223 source:c:\users\andre\onedrive\documents\uanl\materias\progra\homeworks\2048\2048\printmat.c
+	"my2048.h"
+
+1621417666 c:\users\andre\onedrive\documents\uanl\materias\progra\homeworks\2048\2048\my2048.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+
+1621416166 source:c:\users\andre\onedrive\documents\uanl\materias\progra\homeworks\2048\2048\startrand.c
+	"my2048.h"
+
+1621417282 source:c:\users\andre\onedrive\documents\uanl\materias\progra\homeworks\2048\2048\stickandsum.c
+
+1621422092 source:c:\users\andre\onedrive\documents\uanl\materias\2do semestre\progra\homeworks\2048\2048\main.c
+	"my2048.h"
+
+1621417666 c:\users\andre\onedrive\documents\uanl\materias\2do semestre\progra\homeworks\2048\2048\my2048.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+
+1621422223 source:c:\users\andre\onedrive\documents\uanl\materias\2do semestre\progra\homeworks\2048\2048\printmat.c
+	"my2048.h"
+
+1621416166 source:c:\users\andre\onedrive\documents\uanl\materias\2do semestre\progra\homeworks\2048\2048\startrand.c
+	"my2048.h"
+
+1621417282 source:c:\users\andre\onedrive\documents\uanl\materias\2do semestre\progra\homeworks\2048\2048\stickandsum.c
+
